@@ -8,9 +8,9 @@ variable "ami_id" {
 }
 
 variable "zone_id" {
-  default = "Z104317737D96UJVA7NEF"
+  default = "Z02070741KHYWXX006OQ2"
 }
 
 variable "domain_name" {
-  default = "daws76s.online"
+  default = "bhaskar75.online"
 }
